@@ -22,11 +22,65 @@ hr{
     padding: 1rem 0.5rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    background-color:var(--grey) ;
+    
 }
 
+.container-1{
+    background-color:var(--grey) ;
+}
 .center-container{
     margin:auto;
     max-width: 600px;
     padding: 0.5rem 1rem;
+    
+}
+
+ul {
+    list-style: none;
+}
+.inline-list {
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+}
+
+.primary-link {
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 5px;
+    border: solid var(--primary-color);
+    padding: 0.5rem 0.5rem;
+}
+
+.secondary-link {
+    background-color: white;
+    color: var(--primary-color);
+    border-radius: 5px;
+    border: solid var(--primary-color);
+    padding: 0.5rem 0.5rem;
+}
+
+nav {
+    background-color: var(--primary-color);
+    padding: 0.5rem 4rem;
+    color: var(--grey);
+    margin: auto;
+    width: 600;
+    border-bottom-left-radius: 2rem;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+   
+}
+nav ul {
+    text-align: right;  
+    padding-right: 1rem;  
+}
+
+.nav-heading {
+    font-weight: bold;
+    font-size: x-large;
 }
