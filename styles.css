@@ -34,10 +34,9 @@ hr{
     background-color:var(--grey) ;
 }
 .center-container{
-    margin:auto;
+    margin:1rem auto 2rem auto;
     max-width: 800px;
-    padding: 0.5rem 1rem;
-    margin-top: 2rem;
+    padding: 2rem 1rem 2rem 1rem;
     text-align: center;
     border-radius: 0.5rem;
     
@@ -51,6 +50,7 @@ a{
     text-decoration: none;
     color: white;
     padding: 0rem 0.5rem;
+    margin-top: 1rem;
 }
 
 .primary-link {
@@ -67,6 +67,8 @@ a{
     border-radius: 0.5rem;
     border: solid var(--primary-color);
     padding: 0.5rem 0.5rem;
+    
+
 }
 
 /* nav */
@@ -74,7 +76,7 @@ nav {
     background-color: var(--primary-color);
     padding: 0.7rem 4rem;
     color: var(--grey);
-    margin-top : -1rem;
+    margin-top : 0.5rem;
     margin-right:0rem;
     width: 800;
     border-bottom-left-radius: 2rem;
@@ -131,10 +133,6 @@ header img{
 }
 
 /* section */
-
-.off-white {
-    background-color: var(--grey);
-}
 
 /* footer */
 
