@@ -75,6 +75,10 @@ nav a{
     color: white;
    
 }
+
+nav .link-active{
+    font-weight: bold;
+}
 nav ul {
     text-align: right;  
     padding-right: 1rem;  
@@ -83,4 +87,14 @@ nav ul {
 .nav-heading {
     font-weight: bold;
     font-size: x-large;
+}
+
+/* header */
+
+header {
+    font-weight: bold;
+    color: var(--secondary-color);
+}
+header span {
+    color: var(--primary-color);
 }
