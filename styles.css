@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
 
 :root{
-    --primary-color:#1f80a3;
+    --primary-color:#0f172a;
     --secondary-color:#94a3b8;
     --grey :#cbd5e1;
 }
@@ -53,7 +53,7 @@ a{
 .primary-link {
     background-color: var(--primary-color);
     color: white;
-    border-radius: 5px;
+    border-radius: 0.5rem;
     border: solid var(--primary-color);
     padding: 0.5rem 0.5rem;
 }
@@ -61,7 +61,7 @@ a{
 .secondary-link {
     background-color: white;
     color: var(--primary-color);
-    border-radius: 5px;
+    border-radius: 0.5rem;
     border: solid var(--primary-color);
     padding: 0.5rem 0.5rem;
 }
