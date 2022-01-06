@@ -115,6 +115,10 @@ header span {
     
 }
 
+.home-img {
+    margin-top: 1rem;
+    width: 675px;
+}
 header img{
     margin: auto;
     text-align: center;
