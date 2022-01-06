@@ -137,7 +137,9 @@ header img{
 }
 
 /* section */
-
+.section-heading{
+    margin-bottom: 0rem;
+}
 /* footer */
 
 footer{
