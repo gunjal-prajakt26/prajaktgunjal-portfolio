@@ -122,7 +122,6 @@ header span {
 }
 header img{
     margin: auto;
-    text-align: center;
     padding: 1rem 0rem;
     max-width: 90%;
     width: 500px;
@@ -140,6 +139,14 @@ header img{
 /* section */
 .section-heading{
     margin-bottom: 0rem;
+}
+.blog-img {
+    margin: auto;
+    padding: 1rem 0rem;
+    max-width: 90%;
+    width: 700px;
+    display: block;
+
 }
 /* footer */
 
