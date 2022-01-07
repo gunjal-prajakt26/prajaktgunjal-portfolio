@@ -148,6 +148,7 @@ header img{
     display: block;
 
 }
+
 /* footer */
 
 footer{
@@ -171,4 +172,8 @@ footer ul {
 footer img{
     background:white;
     border-radius: 0.2rem;
+}
+
+.read-blogs-footer {
+    margin-top: 15rem;    
 }
